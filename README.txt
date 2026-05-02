@@ -8,10 +8,6 @@ LIVE URL
 --------
 team-task-manager-production-a245.up.railway.app
 
-GITHUB REPO
------------
-[Add your GitHub URL]
-
 ---
 
 TECH STACK
@@ -121,30 +117,6 @@ LOCAL DEVELOPMENT
 The app serves the frontend automatically from backend/server.js.
 Database file (db.json) is created automatically on first run.
 
----
-
-DEPLOYMENT ON RAILWAY
----------------------
-
-1. Push code to GitHub:
-   git init
-   git add .
-   git commit -m "initial commit"
-   git remote add origin <your-github-repo>
-   git push -u origin main
-
-2. Go to railway.app → New Project → Deploy from GitHub
-
-3. Select your repository
-
-4. Railway auto-detects Node.js and runs:  node backend/server.js
-
-5. Click "Generate Domain" in Railway dashboard for a public URL
-
-6. Done! Your app is live.
-
-No environment variables required. No database setup.
-The app uses a JSON file for storage (persists across deploys with Railway volumes if needed).
 
 ---
 
@@ -184,6 +156,7 @@ DEMO VIDEO SCRIPT (2-5 min)
 
 AUTHOR
 ------
+Manoj R S
 Built for the Full-Stack Assignment
 Timeline: ~10 hours
 Stack chosen for: zero-dependency deployment, Railway compatibility
