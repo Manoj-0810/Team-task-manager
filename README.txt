@@ -137,23 +137,6 @@ taskflow/
 
 ---
 
-DEMO VIDEO SCRIPT (2-5 min)
-----------------------------
-
-0:00 - Introduction: "Hi, this is TaskFlow — a full-stack team task manager"
-0:20 - Show signup flow: create two accounts
-0:45 - Create a project, show the dashboard updating
-1:10 - Add a team member (use the second account's email)
-1:30 - Create several tasks with different priorities and due dates
-2:00 - Show task filtering by status
-2:20 - Update task statuses, show progress bar updating
-2:40 - Show overdue task highlighting on dashboard
-3:00 - Login as second user (member) — show restricted permissions
-3:30 - Show the dashboard stats and bar chart
-4:00 - Close: show Railway deployment URL
-
----
-
 AUTHOR
 ------
 Manoj R S
