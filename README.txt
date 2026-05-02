@@ -6,7 +6,7 @@ project management, task tracking, and a real-time dashboard.
 
 LIVE URL
 --------
-[Add your Railway URL after deployment]
+team-task-manager-production-a245.up.railway.app
 
 GITHUB REPO
 -----------
